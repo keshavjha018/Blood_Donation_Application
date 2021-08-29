@@ -63,12 +63,4 @@ while (1):
         quit()
     else:
         print("Invalid choice")
-
-
-
-
-
-
-
-
-
+        
