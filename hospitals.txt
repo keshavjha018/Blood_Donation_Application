@@ -1,0 +1,8 @@
+AIIMS Hospital,9876543210,Shivaji Nagar
+Apollo,9876543210,Patna
+Paras Hospitals,9876543210,Raj Campus
+ABZ Hospitals,9876543210,Danapur
+RB Memorial Hospital,9876543210,Modern city
+Patna Blood bank,9876543210,Alibaba Corner
+Anish Blood bank,9876543210,Haldi Ghati
+Arab Blood bank,9876543210,Banglore

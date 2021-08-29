@@ -1,0 +1,11 @@
+saurabh_12,1234,saurabh,9876543210,A-
+suresh_alpha,654321,suresh sharma,9876543210,AB+
+Raj_rao,654321,Rajesh Rao,9876543210,O-
+Mahesh21,654321,Mahesh Sharma,9876543210,AB+
+laxman002,654321,Laxman shyam,9876543210,AB-
+harshrawat,654321,Harsh Rawat,9876543210,AB+
+Sharma_nitesh,98762,Nitesh Sharma,9876543210,O-
+AswinaPathak12,98762,Aswina pathak,9876543210,O+
+sharma_rohit,216356253,Rohit sharma,9876543210,AB-
+pearson32,216356253,Pearson Bennet,9876543210,O+
+xyz,123,Kunal,9876543210,AB+
